@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class BrewSizeAdvisor {
+public class AttendanceStatusEvaluator {
 
     public static void main(String[] args) {
 
